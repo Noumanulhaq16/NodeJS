@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Nouman",
+        "age": "21"
+    },
+    {
+        "id": "2",
+        "name": "Imran",
+        "age": "20"
+    },
+    {
+        "id": "3",
+        "name": "Sufyan",
+        "age": "18"
+    },
+    {
+        "id": "4",
+        "name": "Mahnoor",
+        "age": "16"
+    },
+    {
+        "id": "5",
+        "name": "Ayan",
+        "age": "14"
+    },
+    {
+        "id": "6",
+        "name": "Ahsan",
+        "age": "51"
+    },
+    {
+        "id": "7",
+        "name": "Shaziya",
+        "age": "45"
+    }
+]
